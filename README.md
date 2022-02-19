@@ -1,5 +1,7 @@
 
-# Utilização do script.
+# Script para recuperação de dados na ONS para obtenção de valores de energia renovável e não renovável.
+
+## Utilização do script.
 
 para executar o script, a 3 opções:
 * Executar script normal com comando npm start ou node .
