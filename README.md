@@ -8,5 +8,5 @@ para executar o script, a 3 opções:
 * Obs: é possível passar as duas flags como argumento, node . --persist --delay
 
 ## Modo de desenvolvimento
-* É possível usar todos os comandos acima, para visualizar todo o processo que é feito no browser
-pode se passar a flag  --dev, ex: node . --dev, node . --persist --delay --dev ou npm run start -- --dev
+* É possível usar todos os comandos acima para visualizar todo o processo que é feito no browser,
+basta passar a flag  --dev, ex: node . --dev, node . --persist --delay --dev ou npm run start -- --dev
